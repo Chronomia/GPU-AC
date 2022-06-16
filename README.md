@@ -1,5 +1,3 @@
-/*************The university IP policy requires that sharing this occurs only for the reviewing process and the reviewers are expected to keep the code confidential and to use it only for the purpose of review; we will open-source the code after finishing the paperwork with the university on IP concerns.*************/
-
 ## GPU random access on hierarchically compressed data
 
 We currently submit the implementation of the insert operation, which consists of two functions, `insert in batch `and `insert in sequence`. The source code of these two functions locates in the directory `src/insert_batch`and`src/insert_sequence`. 
