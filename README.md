@@ -12,5 +12,5 @@ Directory `bin` includes binary executable files for the two functions.
 
 ----
 
-We provide bash file `src/run_insert.sh` to make a fast evaluation of the two operation functions. You can call `bash src/run_insert.sh` to see the evaluation result.
+We provide bash file `src/run_insert.sh` to make a fast evaluation of the two operation functions. You can call `cd src && bash run_insert.sh` to see the evaluation result.
 
